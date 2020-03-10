@@ -16,3 +16,20 @@ npx nodemon -w dist dist/index.js
 
 ```
 
+### Modules
+
+- export ...
+
+import { ... } from ...
+
+- export default ...
+
+import ... from ...
+
+
+
+- export default 同一个module只能存在一个， export可以多个；
+- 可以用export ... as ...修改需要的调用名.
+
+
+
